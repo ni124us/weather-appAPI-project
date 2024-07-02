@@ -1,2 +1,2 @@
-# weather-appAPI-project-built with nodejs ejs and openweather
-this app is used to determine the weather of a paticular city.
+# weather appAPI-project
+This app is built using Nodejs,Ejs and opeweather which is  used to determine the temparature of a paticular city.
